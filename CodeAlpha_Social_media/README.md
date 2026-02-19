@@ -1,11 +1,6 @@
-# MERN Social 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)*
-
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
 
 ![MERN Social](https://s3.amazonaws.com/mernbook/git+/social.png "MERN Social")
-
-### [Live Demo](http://social2.mernbook.com/ "MERN Social")
 
 #### What you need to run this code
 1. Node (13.12.0)
@@ -20,16 +15,6 @@ A simple social media application with users, posts, likes and comments - develo
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 ---- 
-### More applications built using this stack
-
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
-
-Learn more at [mernbook.com](http://www.mernbook.com/)
 
 ----
 ## Get the book
@@ -52,7 +37,4 @@ Things you'll learn in this book:
 - Implement user authentication and authorization using JSON web tokens
 - Set up and use React 360 to develop user interfaces with VR capabilities
 - Make your MERN stack applications reliable and scalable with industry best practices
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839215410) today!
-
 ---
